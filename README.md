@@ -10,6 +10,9 @@
 ---
 
 ## 🚀 Features  
+
+![Screenshot 2023-08-28 085514](https://github.com/user-attachments/assets/1e2d0611-a665-41eb-9eea-9b74454fcb93)
+
 - **Create Accounts**: Automate Pinterest account creation with ease.  
 - **Bulk Upload**: Upload multiple pins simultaneously to save time.  
 - **Bulk Repin**: Amplify engagement by repinning content in bulk.  
