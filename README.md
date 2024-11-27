@@ -11,7 +11,12 @@
 
 ## 🚀 Features  
 
-![Screenshot 2023-08-28 085514](https://github.com/user-attachments/assets/1e2d0611-a665-41eb-9eea-9b74454fcb93)
+## 📸 Screenshots    
+
+| ![Screenshot 2023-08-28 085514](https://github.com/user-attachments/assets/ff267afd-b7ea-4663-934e-2bedb6738ac9) | ![Screenshot 2023-08-28 091543](https://github.com/user-attachments/assets/074059f6-8127-4205-8391-59ac66eeb55c) |  
+
+| ![Screenshot 2023-08-28 094349](https://github.com/user-attachments/assets/df53d045-1fec-4a38-8a28-12048ef87c07) | ![Screenshot 2023-08-28 104022](https://github.com/user-attachments/assets/2b71258c-0685-419d-a06c-f380505c11a7) |  
+
 
 - **Create Accounts**: Automate Pinterest account creation with ease.  
 - **Bulk Upload**: Upload multiple pins simultaneously to save time.  
