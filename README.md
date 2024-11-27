@@ -1,5 +1,5 @@
 # Pinsyncme 📌  
-**Cikara Internship Project**
+**Cikara Internship Project** - 
 **Automating Pinterest Like Never Before**
 
 **Pinsyncme** is an automated application designed to revolutionize your Pinterest experience. From creating accounts to bulk uploading and managing repins, **Pinsyncme** simplifies everything, making Pinterest management efficient and hassle-free.
